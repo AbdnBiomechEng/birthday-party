@@ -6,3 +6,4 @@ Carrot cake
 * Carrots
 * Sugar
 * Baking powder
+* Raisins
