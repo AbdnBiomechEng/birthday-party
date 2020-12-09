@@ -6,5 +6,5 @@ Carrot cake
 * Carrots
 * Sugar
 * Baking soda
-* Chocolate chips
+* Raisins
 * Walnuts
