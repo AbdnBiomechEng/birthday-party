@@ -7,3 +7,4 @@ Carrot cake
 * Sugar
 * Baking powder
 * Raisins
+* Walnuts
