@@ -5,3 +5,6 @@ Carrot cake
 * Butter
 * Carrots
 * Sugar
+* Baking soda
+* Raisins
+* Walnuts
